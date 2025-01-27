@@ -66,7 +66,7 @@ cd car-membership-app
 2. Create a new database named car_membership.
 Create a table for storing member information. You can use the following SQL script:
 
-```sql
+sql
 CREATE TABLE members (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
@@ -76,6 +76,5 @@ CREATE TABLE members (
     contact VARCHAR(50),
     account_number VARCHAR(50)
 );
-```
 
 

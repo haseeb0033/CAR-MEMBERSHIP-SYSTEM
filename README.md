@@ -125,7 +125,8 @@ The **members** table in the database consists of the following columns:
 - Here are some screenshots of the app in action:
 
 **Welcome Page**
-C:\Users\Students\Desktop\1.png
+![Uploading 1.png…]()
+
 
 Login Page
 

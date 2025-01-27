@@ -62,8 +62,10 @@ cd car-membership-app
 
 ### 2. Set up MySQL Database:
 1. Install MySQL on your local machine or use a remote MySQL server.
+   
 2. Create a new database named car_membership.
-Create a table for storing member information. You can use the following SQL script:
+   
+3. Create a table for storing member information. You can use the following SQL script:
 
 ```sql
 CREATE TABLE members (
@@ -76,5 +78,12 @@ CREATE TABLE members (
     account_number VARCHAR(50)
 );
 ```
+
+### 3. Update Database Credentials:
+- In the CarMembershipApp.java file, update the database connection string with your credentials:
+
+java
+Copy
+
 
 

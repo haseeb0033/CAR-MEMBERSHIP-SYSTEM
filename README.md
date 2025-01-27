@@ -88,7 +88,26 @@ private static final String DB_USER = "root";
 private static final String DB_PASS = "yourpassword";
 ```
 
-### 4. Database Schema
+### 4. Compile and Run the Application:
+1. Open the project in your preferred Java IDE.
+2. Compile and run the CarMembershipApp.java file.
+## Usage
+Once the application is up and running, you can follow these steps:
+
+- Launch the Application: Start the application to see the welcome screen.
+- Login: Choose between the User and Admin role.
+## User Interface:
+- Select a search option (Name, Car Model, License Plate).
+- Enter the value and click Search to find members.
+## Admin Interface:
+- Add new members by filling out the provided form with car and membership details.
+- View all registered members.
+- Search members by license plate.
+## Example Usage:
+1. User Login: Select "User" to search for a car by name, model, or license plate.
+2. Admin Login: Select "Admin" to add new members, view the list of all members, or search for a member by license plate.
+
+### 5. Database Schema
 
 The **members** table in the database consists of the following columns:
 

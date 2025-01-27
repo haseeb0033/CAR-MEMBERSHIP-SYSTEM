@@ -65,7 +65,7 @@ cd car-membership-app
    
 2. Create a new database named car_membership.
    
-## 3. Create a table for storing member information. You can use the following SQL script:
+3. Create a table for storing member information. You can use the following SQL script:
 
 ```sql
 CREATE TABLE members (

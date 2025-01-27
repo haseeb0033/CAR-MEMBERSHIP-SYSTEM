@@ -185,7 +185,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 8. **App Screenshots**: Visual representation of the app’s UI (you can upload screenshots to an `assets/screenshots/` folder on your GitHub repo).
 9. **License**: Standard license section, assuming MIT License.
 
-This markdown should make your project look professional and well-documented for a GitHub repository. You can further customize it by adding your own logo, additional sections, or details.
 
 
 

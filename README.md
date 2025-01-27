@@ -121,6 +121,18 @@ The **members** table in the database consists of the following columns:
 | `contact`          | VARCHAR(50)  | Member's contact details                          |
 | `account_number`   | VARCHAR(50)  | Payment method account number                     |
 
+## App Screenshots
+- Here are some screenshots of the app in action:
 
+Welcome Page
+
+Login Page
+
+User Search Page
+
+Admin Dashboard
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 

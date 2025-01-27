@@ -55,7 +55,7 @@ To get started with the Car Membership App, follow these installation steps:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/car-membership-app.git
+git clone https://github.com/haseeb0033/car-membership-app.git
 cd car-membership-app
 ```
 
@@ -84,8 +84,8 @@ CREATE TABLE members (
 
 ```java
 private static final String DB_URL = "jdbc:mysql://localhost:3306/car_membership";
-private static final String DB_USER = "root";
-private static final String DB_PASS = "yourpassword";
+private static final String DB_USER = "localhost";
+private static final String DB_PASS = "12345";
 ```
 
 ### 4. Compile and Run the Application:

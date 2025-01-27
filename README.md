@@ -46,7 +46,7 @@ Before running the Car Membership App, ensure your system meets the following re
 |---------------------|-----------------------------------------|
 | **Java Version**     | Java 8 or later                         |
 | **MySQL Database**   | MySQL 5.7 or later                      |
-| **IDE**              | IntelliJ IDEA, Eclipse, or similar Java IDE |
+| **IDE**              | IntelliJ IDEA, NetBeans , or similar Java IDE |
 | **Libraries**        | JDBC for database connectivity, Swing for GUI |
 
 ## Installation

@@ -125,18 +125,22 @@ The **members** table in the database consists of the following columns:
 - Here are some screenshots of the app in action:
 
 **Welcome Page :** 
-....
+
 
 
 
 ![1](https://github.com/user-attachments/assets/62e1aded-5cc9-456a-9698-fbb83f64275f)
-...
 
 
 
 
 
 **Login Page**
+
+
+![2](https://github.com/user-attachments/assets/e5e57897-fb4e-479d-8d11-194553eb2064)
+
+
 
 **User Search Page**
 

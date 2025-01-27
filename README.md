@@ -82,8 +82,11 @@ CREATE TABLE members (
 ### 3. Update Database Credentials:
 - In the CarMembershipApp.java file, update the database connection string with your credentials:
 
-java
-Copy
+```java
+private static final String DB_URL = "jdbc:mysql://localhost:3306/car_membership";
+private static final String DB_USER = "root";
+private static final String DB_PASS = "yourpassword";
+```
 
 
 

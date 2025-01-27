@@ -124,15 +124,15 @@ The **members** table in the database consists of the following columns:
 ## App Screenshots
 - Here are some screenshots of the app in action:
 
-**Welcome Page**
+**Welcome Page :** 
 ![Uploading 1.png…]()
 
 
-Login Page
+**Login Page**
 
-User Search Page
+**User Search Page**
 
-Admin Dashboard
+**Admin Dashboard**
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.

@@ -88,5 +88,20 @@ private static final String DB_USER = "root";
 private static final String DB_PASS = "yourpassword";
 ```
 
+### 4. Database Schema
+
+The **members** table in the database consists of the following columns:
+
+| Column Name        | Data Type    | Description                                       |
+|--------------------|--------------|---------------------------------------------------|
+| `id`               | INT          | Primary Key, Auto Increment                       |
+| `name`             | VARCHAR(100) | Member's name                                     |
+| `car_model`        | VARCHAR(50)  | Car model                                         |
+| `license_plate`    | VARCHAR(20)  | Car license plate                                 |
+| `membership_type`  | VARCHAR(20)  | Membership type (Basic, Premium, VIP)             |
+| `contact`          | VARCHAR(50)  | Member's contact details                          |
+| `account_number`   | VARCHAR(50)  | Payment method account number                     |
+
+
 
 

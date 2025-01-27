@@ -61,9 +61,9 @@ cd car-membership-app
 
 
 ### 2. Set up MySQL Database:
-## 1. Install MySQL on your local machine or use a remote MySQL server.
+1. Install MySQL on your local machine or use a remote MySQL server.
    
-## 2. Create a new database named car_membership.
+2. Create a new database named car_membership.
    
 ## 3. Create a table for storing member information. You can use the following SQL script:
 
@@ -89,8 +89,8 @@ private static final String DB_PASS = "yourpassword";
 ```
 
 ### 4. Compile and Run the Application:
-### 1. Open the project in your preferred Java IDE.
-### 2. Compile and run the CarMembershipApp.java file.
+1. Open the project in your preferred Java IDE.
+2. Compile and run the CarMembershipApp.java file.
 ## Usage
 Once the application is up and running, you can follow these steps:
 
@@ -104,8 +104,8 @@ Once the application is up and running, you can follow these steps:
 - View all registered members.
 - Search members by license plate.
 ## Example Usage:
-## 1. User Login: Select "User" to search for a car by name, model, or license plate.
-## 2. Admin Login: Select "Admin" to add new members, view the list of all members, or search for a member by license plate.
+1. User Login: Select "User" to search for a car by name, model, or license plate.
+2. Admin Login: Select "Admin" to add new members, view the list of all members, or search for a member by license plate.
 
 ### 5. Database Schema
 

@@ -142,7 +142,8 @@ The **members** table in the database consists of the following columns:
 
 
 
-**User Search Page**
+
+**Admin Dashboard**
 
 
 
@@ -154,8 +155,7 @@ The **members** table in the database consists of the following columns:
 
 
 
-**Admin Dashboard**
-
+**User Search Page**
 
 
 
